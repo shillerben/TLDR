@@ -1,0 +1,7 @@
+{
+  "name": "TLDR",
+  "version": 0.1.0,
+  "description": "Article summarizer and recommender",
+  "permissions": ["tabs", "storage"],
+  "manifest_version": 2
+}
